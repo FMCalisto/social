@@ -26,7 +26,7 @@ DOI link:
 
 ### Example 2.1.
 
-Write me 8 good posts about my papers on Facebook. You need to write one post per each paper. I will provide the abstracts of the papers. I also will provide you the DOI links to the papers, which you must include in all posts. Try to be provocative, but not too much. Max 5000 characters. Use good hashtags.
+Write me 7 good posts about my papers on Facebook. You need to write one post per each paper. I will provide the abstracts of the papers. I also will provide you the DOI links to the papers, which you must include in all posts. Try to be provocative, but not too much. Max 5000 characters. Use good hashtags.
 
 Abstract
 
