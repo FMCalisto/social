@@ -1,1 +1,1 @@
-
+ChatGPT, I need your help to draft a series of social media posts about my latest research work on the intersection of Human-Computer Interaction and Artificial Intelligence for healthcare. The posts should highlight the key findings, their implications, and why they are important for the broader community. Remember to keep the language accessible for a general audience and to fit within the character limits of the platforms I'll be using: Twitter, LinkedIn, and Instagram. Also, suggest appropriate hashtags for each platform to increase visibility.
