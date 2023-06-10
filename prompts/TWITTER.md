@@ -1,7 +1,22 @@
 ## Prompt 1
 
-*You need to act as a researcher who is working on the intersection between Human-Computer Interaction (HCI) and Artificial Intelligence (AI) for Healthcare. Create one tweet per each day of the month about the importance of HCI and AI for Healthcare. Specifically, describe how will it revolutionize breast cancer and radiology. Schedule each tweet to optimize the best hour of each day to post about the topic. Use transition words. Use active voice. Write between 220 to 280 characters. Include at least two of the following hashtags: #MedicalImaging, #Radiology, #Radiologist, #Radiologists, #Physician, #Physicians, #Doctor, #Doctors, #Clinician, #Clinicians, #Medicine, #PrecisionMedicine, #PersonalizedMedicine, #Breast, #Cancer, #BreastCancer, #BreastCancerDiagnosis, #ArtificialIntelligence, #AI, #Healthcare, #HealthInformatics, #HumanComputerInteraction, #HCI, #UserCenteredDesign, #FMCalisto.*
+*Give me 10 good tweets. You need to follow a specific structure so that I can copy-paste to a CSV structure. Please add each tweet idea on the "Text" column of the CSV structure. You also need to sechedule the post for random days and hours during the month on the "DateAndTime" column. Moreover, you should choose randomly one the following links to the "Attanchment" column of the CSV structure. It would be best if you acted as a researcher working on the intersection between Human-Computer Interaction (HCI) and Artificial Intelligence (AI) for Healthcare. Specifically, describe how it will revolutionize breast cancer and radiology. Use transition words. Use active voice. Aim to convey the information within the first few sentences or paragraphs to capture users' interest. Write between 220 and 280 characters. Include at least two of the following hashtags: #MedicalImaging, #Radiology, #Radiologist, #Radiologists, #Physician, #Physicians, #Doctor, #Doctors, #Clinician, #Clinicians, #Medicine, #PrecisionMedicine, #PersonalizedMedicine, #Breast, #Cancer, #BreastCancer, #BreastCancerDiagnosis, #ArtificialIntelligence, #AI, #Healthcare, #HealthInformatics, #HumanComputerInteraction, #HCI, #UserCenteredDesign, #FMCalisto.*
+
+Sample of the CSV structure to follow:
+
+"Text","DateAndTime","Attachment"
+"Start your week with a spark of 🍉 with Jusco Soda.","2021 Jan 29, 12:29 PM",""
+"O to the M to the G. Check the The Domestic Geek recipes for an amazing get along with your friends. 🍹 🍹 🍹","2021 Jan 28, 4:29 PM","https://www.youtube.com/watch?v=zcR1Qn8-iV0"
+"Jusco Pineapple Queen 🍍 - 100% juice. 100% magic. Now it's easy to feel amazing with no added sugar. #DrinkTheSummer","2021 Jan 27, 5:29 AM","https://d2dzu5rf27gdz3.cloudfront.net/demo/brooke-lark-194251.jpg"
+
+Links to the "Attanchment" column of the CSV file:
+
+https://github.com/MIMBCD-UI/sa-uta11-results
 
 ## Prompt 2
+
+*You need to act as a researcher who is working on the intersection between Human-Computer Interaction (HCI) and Artificial Intelligence (AI) for Healthcare. Create one tweet per each day of the month about the importance of HCI and AI for Healthcare. Specifically, describe how will it revolutionize breast cancer and radiology. Schedule each tweet to optimize the best hour of each day to post about the topic. Use transition words. Use active voice. Write between 220 to 280 characters. Include at least two of the following hashtags: #MedicalImaging, #Radiology, #Radiologist, #Radiologists, #Physician, #Physicians, #Doctor, #Doctors, #Clinician, #Clinicians, #Medicine, #PrecisionMedicine, #PersonalizedMedicine, #Breast, #Cancer, #BreastCancer, #BreastCancerDiagnosis, #ArtificialIntelligence, #AI, #Healthcare, #HealthInformatics, #HumanComputerInteraction, #HCI, #UserCenteredDesign, #FMCalisto.*
+
+## Prompt 3
 
 *Give me 10 good tweets. It would be best if you acted as a researcher working on the intersection between Human-Computer Interaction (HCI) and Artificial Intelligence (AI) for Healthcare. Specifically, describe how it will revolutionize breast cancer and radiology. Use transition words. Use active voice. Aim to convey the information within the first few sentences or paragraphs to capture users' interest. Write between 220 and 280 characters. Include at least two of the following hashtags: #MedicalImaging, #Radiology, #Radiologist, #Radiologists, #Physician, #Physicians, #Doctor, #Doctors, #Clinician, #Clinicians, #Medicine, #PrecisionMedicine, #PersonalizedMedicine, #Breast, #Cancer, #BreastCancer, #BreastCancerDiagnosis, #ArtificialIntelligence, #AI, #Healthcare, #HealthInformatics, #HumanComputerInteraction, #HCI, #UserCenteredDesign, #FMCalisto.*
