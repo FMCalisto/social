@@ -11,7 +11,57 @@ Sample of the CSV structure to follow:
 
 Links to the "Attanchment" column of the CSV file:
 
+https://www.linkedin.com/posts/fmcalisto_breastscreening-ai-evaluating-medical-intelligent-activity-7072565442560573440-CA06
+
+https://www.linkedin.com/posts/fmcalisto_devem-ser-criadas-equipas-que-permitam-a-activity-7069976004529651712-O-Mg
+
+https://www.linkedin.com/posts/fmcalisto_introduction-of-human-centric-ai-assistant-activity-7069696528637997056-qzBy
+
+https://twitter.com/FMCalisto/status/1666035968728526850
+
+https://twitter.com/FMCalisto/status/1664324847101460483
+
+https://twitter.com/FMCalisto/status/1664221028111773697
+
+https://twitter.com/FMCalisto/status/1663599480485163008
+
+https://twitter.com/FMCalisto/status/1663591960278335508
+
+https://twitter.com/FMCalisto/status/1662173129139994634
+
+https://www.facebook.com/fmcalisto/posts/pfbid0jPvXi6SixM8BPfBHV98memR5GR8EHHf1CZgWSS2rpy1NwWjB6aakdiUzRe9TmRwUl
+
+https://www.facebook.com/fmcalisto/posts/pfbid0Qyjq4ZjzjLHkcPWMBid5dvHyxTATPmwQWgE1dPQJvLZfpfoMUK2ifTKfZNEUXLB7l
+
+https://www.facebook.com/fmcalisto/posts/pfbid0giWyyhTRtCeYDPH4tHDdVEy2aH8BWtAkBqKjyhiZ2atXM8NQrGDnWDLBfxREyJN1l
+
+https://fmcalisto.blogspot.com/2023/04/personalized-ai-for-medical-diagnosis.html
+
+https://www.tumblr.com/fmcalisto/701852694354214913/inside-google-what-a-great-day-having-some
+
+https://dev.to/fmcalisto/what-is-the-difference-between-a-cornerstonejs-viewport-and-an-image-object-1bdd
+
+https://medium.com/oppr/medical-imaging-downloader-for-cornerstonejs-and-orthanc-d08c3a508d9b
+
+https://medium.com/oppr/using-cornerstonejs-and-orthanc-to-support-deep-learning-projects-c9675819c33a
+
+https://medium.com/oppr/applying-new-paradigms-in-human-computer-interaction-to-health-informatics-86d6a7046130
+
+https://www.instagram.com/reel/Cqp-G-7uqTV
+
+https://fmcalisto.hashnode.dev/pacs-integration-manually
+
+https://www.freecodecamp.org/FMGFCalisto
+
+https://www.reddit.com/r/artificial/comments/1045fns/adoption_of_ai_in_medical_imaging_diagnosis/
+
+https://t.me/FMCalistoChannel
+
+https://www.tiktok.com/@fmcalisto/video/7219830650000477446
+
 https://github.com/MIMBCD-UI/sa-uta11-results
+
+https://youtu.be/JwdhA7mHBO0
 
 https://youtu.be/-d-8-GzKg9E
 
