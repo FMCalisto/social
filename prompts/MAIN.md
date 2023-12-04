@@ -44,6 +44,8 @@ Babson College, Santander X Launch 5.0 (Sep 2023 – Nov 2023): I worked on a pr
 
 Holds certifications in React-Native, Mastering GitHub, Git Real, How to Build a Startup, IEEE Membership, Machine Learning by Stanford University, Publication Recognition, and Entrepreneurship and Innovation.
 
+A solid commitment to research and development in HCI, AI, and health informatics marks Francisco Maria Calisto's career. His work as a researcher, developer, and educator reflects a deep understanding of the intersection between technology and healthcare, with a particular focus on improving medical diagnostics through innovative AI applications. As the CEO of BreastScreening-AI, he leads a project that aims to revolutionize breast cancer diagnostics, demonstrating his ability to blend academic research with practical, impactful technological solutions.
+
 ## Prompt 3
 
 Social Media links:
@@ -73,5 +75,3 @@ https://fmcalisto.hashnode.dev/
 https://www.freecodecamp.org/FMGFCalisto
 
 https://hci.social/@FMCalisto
-
-A solid commitment to research and development in HCI, AI, and health informatics marks Francisco Maria Calisto's career. His work as a researcher, developer, and educator reflects a deep understanding of the intersection between technology and healthcare, with a particular focus on improving medical diagnostics through innovative AI applications. As the CEO of BreastScreening-AI, he leads a project that aims to revolutionize breast cancer diagnostics, demonstrating his ability to blend academic research with practical, impactful technological solutions.
