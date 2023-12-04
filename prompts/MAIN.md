@@ -42,6 +42,6 @@ Skills
 Proficient in Programming, Java, SQL, Linux, Web Development, C++, PHP, JavaScript, C, CSS.
 LinkedIn Profile
 LinkedIn: Francisco Maria Calisto
-Contact Information: francisco_mcalisto@outlook.com, +351 91 228 78 42
+Contact Information: francisco.calisto@tecnico.ulisboa.pt
 Location: Lisboa
 Francisco Maria Calisto's career is marked by a strong commitment to research and development in HCI, AI, and health informatics. His work as a researcher, developer, and educator reflects a deep understanding of the intersection between technology and healthcare, with a particular focus on improving medical diagnostics through innovative AI applications. As the CEO of BreastScreening-AI, he leads a project that aims to revolutionize breast cancer diagnostics, demonstrating his ability to blend academic research with practical, impactful technological solutions.
