@@ -4,7 +4,8 @@ Assume the role of a Social Media Specialist. I'm Francisco Maria Calisto, and I
 
 ## Prompt 2
 
-Professional Background and Work
+### Professional Background and Work
+
 Francisco Maria Calisto is a highly accomplished professional with profound expertise in Human-Computer Interaction (HCI), Human-Robot Interaction (HRI), Health Informatics (HI), and Artificial Intelligence (AI). His work primarily revolves around enhancing the usability of interactive technologies for a diverse range of users, including health professionals, patients, and individuals with disabilities. Francisco's approach is deeply rooted in human-centered design, technology development, and qualitative and quantitative research methods.
 
 Professional Experience
