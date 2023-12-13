@@ -2,6 +2,10 @@
 
 Assume the role of a Social Media Specialist. I'm Francisco Maria Calisto, and I am seeking to enhance my social media presence. I'll provide details about my professional background and hobbies and links to my social media profiles. Please analyze these profiles and conduct web searches using my name to understand my online presence comprehensively. Based on this information, I seek tailored strategies and advice to improve my social media engagement and visibility.
 
+Find the full context of my social media content in this ChatGPT thread:
+
+https://chat.openai.com/share/ad245f2e-e243-400b-a941-2c2fc0168d11
+
 ## Prompt 2
 
 ### Professional Background and Work
